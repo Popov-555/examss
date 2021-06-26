@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\App.g.cs
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX_MarkupCompile.cache
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX_MarkupCompile.lref
+C:\Users\User\source\repos\WpfEX\WpfEX\bin\Debug\WpfEX.exe.config
+C:\Users\User\source\repos\WpfEX\WpfEX\bin\Debug\WpfEX.exe
+C:\Users\User\source\repos\WpfEX\WpfEX\bin\Debug\WpfEX.pdb
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.g.resources
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.Properties.Resources.resources
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.exe
+C:\Users\User\source\repos\WpfEX\WpfEX\obj\Debug\WpfEX.pdb

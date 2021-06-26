@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31410.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfEX", "WpfEX\WpfEX.csproj", "{8B322708-2D53-4613-AC38-F8C68D5EFA3C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B322708-2D53-4613-AC38-F8C68D5EFA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B322708-2D53-4613-AC38-F8C68D5EFA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B322708-2D53-4613-AC38-F8C68D5EFA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B322708-2D53-4613-AC38-F8C68D5EFA3C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D700DD0E-060D-478E-84BB-574CE8EC3301}
+	EndGlobalSection
+EndGlobal
