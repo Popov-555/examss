@@ -104,4 +104,4 @@ public partial class MainWindow : Window, INotifyPropertyChanged
  ```
 
 # Вывод:Приложение  WPF  для пациэнтов разработано с таблицой,поиском,сортировкой
-![](./125.png)
+![](./177.png)
